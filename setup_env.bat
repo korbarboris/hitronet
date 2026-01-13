@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\Users\boris.korbar\portable\nodejs
